@@ -3,14 +3,17 @@
 
 
 
-This app is designed to generate a housekeeping task sheet based on arrival, departure and stayover status of rooms. 
+This app is designed to generate a housekeeping task sheet based on arrival, departure and stayover status of rooms.   
+<br/><br/> 
+![gif](http://g.recordit.co/PsGzZIXk30.gif) .  
 
+<br/><br/> 
 
 ## Installation
 
 ### Requirments
 
-[Python](https://www.python.org/downloads/) 3.0+
+[Python](http://recordit.co/PsGzZIXk30) 3.0+
 
 ### Clone
 
