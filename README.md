@@ -13,7 +13,7 @@ This app is designed to generate a housekeeping task sheet based on arrival, dep
 
 ### Requirments
 
-[Python](http://recordit.co/PsGzZIXk30) 3.0+
+[Python](https://www.python.org/download/releases/3.0/) 3.0+
 
 ### Clone
 
