@@ -1,5 +1,5 @@
 
-# Hotel Housekeeping Managment App
+# Hotel Housekeeping Management App
 
 
 
